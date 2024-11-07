@@ -9,4 +9,5 @@ to manage this.
 to do all the work, Hadoop splits the work across many computers, making it much
 faster. It uses a technique called MapReduce to break down complex tasks into smaller
 ones and then combine the results.
-! [Hadoop](image.png)
+
+![Hadoop](image.png)
